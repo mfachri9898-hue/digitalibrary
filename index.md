@@ -14,7 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Syahadat Cinta](ebook/Syahadat Cinta.pdf)-Taufiqurrahman Al-Azizy (2006)
 9. [Tenggelamnya Kapal Van Der Wijck](ebook/Tenggelamnya Kapal Van Der Wijck.pdf)-Hamka (1976)
 10. [Marmut Merah Jambu](ebook/Marmut Merah Jambu.pdf)-Raditya Dika (2010)
-11. [Tugas Rangkuman Materi Perkuliahan](ebook/Tugas Rangkuman Materi Perkuliahan.pdf)-Sinta Taliya (2026)
+11. 
 
 
 ---
