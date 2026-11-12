@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata (2005)
 6. [Anak_Anak_Hastinapura](ebook/Anak_Anak_Hastinapura.pdf)-Wrini Harlindi (2023)
 7. [Anak-anak Hujan](ebook/Anak-anak Hujan.pdf)-Musrifah Medkom (2024)
-
+8. [Dompet Ajaib](ebook/Dompet Ajaib.pdf)-Novianti Kasiman (2025)
 
 
 *Powered by GitHub Pages*
