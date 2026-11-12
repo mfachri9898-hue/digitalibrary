@@ -12,9 +12,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Anak_Anak_Hastinapura](ebook/Anak_Anak_Hastinapura.pdf)-Wrini Harlindi (2023)
 7. [Anak-anak Hujan](ebook/Anak-anak Hujan.pdf)-Musrifah Medkom (2024)
 8. [Dompet Ajaib](ebook/Dompet Ajaib.pdf)-Novianti Kasiman (2025)
-9. [Pelung Keluar Kampung](ebook/Pelung Keluar Kampung)-Meylina (2025)
-10. [Gosok-gosok](ebook/Gosok-gosok)-Yosi Gumala (2025)
-11. [Mi Panjang Umur](ebook/Mi Panjang Umur)-Weni Rahayu (2025)
+9. [Pelung Keluar Kampung](ebook/Pelung Keluar Kampung,pdf)-Meylina (2025)
+10. [Gosok-gosok](ebook/Gosok-gosok.pdf)-Yosi Gumala (2025)
+11. [Mi Panjang Umur](ebook/Mi Panjang Umur.pdf)-Weni Rahayu (2025)
 
 
     
