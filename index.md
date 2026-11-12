@@ -10,7 +10,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [UGC Muhammad Fachri](ebook/UGC Muhammad Fachri.pdf)-Fachri (2026)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata (2005)
 6. [Anak_Anak_Hastinapura](ebook/Anak_Anak_Hastinapura.pdf)-Wrini Harlindi (2023)
-
+7. [Anak-anak Hujan](ebook/Anak-anak Hujan.pdf)-Musrifah Medkom (2024)
 
 
 
