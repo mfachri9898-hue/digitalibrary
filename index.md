@@ -13,5 +13,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Anak-anak Hujan](ebook/Anak-anak Hujan.pdf)-Musrifah Medkom (2024)
 8. [Dompet Ajaib](ebook/Dompet Ajaib.pdf)-Novianti Kasiman (2025)
 9. [Pelung Keluar Kampung](ebook/Pelung Keluar Kampung)-Meylina (2025)
-
+10. [Gosok-gosok](ebook/Gosok-gosok)-Yosi Gumala 920250
 *Powered by GitHub Pages*
