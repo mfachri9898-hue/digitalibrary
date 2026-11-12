@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Milea](ebook/Milea.pdf)-Pidi Baiq (2016)
 4. [UGC Muhammad Fachri](ebook/UGC Muhammad Fachri.pdf)-Fachri (2026)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)-Andrea Hirata (2005)
-
+6. [Anak_Anak_Hastinapura](ebook/Anak_Anak_Hastinapura.pdf)-Wrini Harlindi (2023)
 
 
 
